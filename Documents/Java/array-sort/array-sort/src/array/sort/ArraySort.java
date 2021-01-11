@@ -31,7 +31,7 @@ public class ArraySort {
             }
         }
         System.out.println();
-        System.out.println("Array sorted in ascendig order:");
+        System.out.println("Array sorted in ascending order:");
         for (int i = 0; i < masyvas.length; i++) {
             System.out.print(masyvas[i] + " ");
         }
